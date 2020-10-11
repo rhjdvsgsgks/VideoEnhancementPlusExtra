@@ -1,0 +1,5 @@
+id=VideoEnhancementPlusExtra
+name=VideoEnhancementPlusExtra
+version=v1
+versionCode=1
+description=extra magisk module for xposed module VideoEnhancementPlus
